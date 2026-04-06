@@ -6,10 +6,9 @@ A machine learning project to predict whether a website visitor will make a purc
 This project analyzes user behavior on an e-commerce website and builds a machine learning model to predict purchase intention. It helps businesses identify potential buyers and improve conversion rates.
 
 ## 📊 Dataset
-Source: UCI Machine Learning Repository
+**Source:** UCI Machine Learning Repository
 
-Contains user session data such as:
-
+**Contains user session data such as:**
 Page visits
 
 Time spent
@@ -18,7 +17,7 @@ Bounce & exit rates
 
 Traffic source & visitor type
 
-Target Variable: Revenue (0 = Non-Buyer, 1 = Buyer)
+**Target Variable:** Revenue (0 = Non-Buyer, 1 = Buyer)
 
 ## 🛠️ Tools and Technologies
 Python 🐍
@@ -45,7 +44,7 @@ Exploratory Data Analysis (EDA)
 Feature Scaling
 
 
-Model Building:
+**Model Building:**
 
 Logistic Regression
 
@@ -53,7 +52,7 @@ Random Forest
 
 XGBoost
 
-Model Evaluation:
+**Model Evaluation:**
 
 Accuracy
 
@@ -77,14 +76,14 @@ Returning users are more likely to buy
 Most users are non-buyers (class imbalance)
 
 ## 📈 Dashboard / Model Output
-Best Model: Random Forest
+**Best Model:** Random Forest
 
-Accuracy: ~91%
+**Accuracy:** ~91%
 
-ROC-AUC Score: ~0.92
+**ROC-AUC Score:** ~0.92
 
 
-Confusion Matrix:
+#### Confusion Matrix:
 
 2708 Non-buyers correctly predicted
 
@@ -100,7 +99,7 @@ By identifying high-intent users, businesses can improve targeting, reduce drop-
 
 ## 👨‍💻 Author & Contact
 
-Rohit Namdev Shinde
+**Rohit Namdev Shinde**
 📧 Email: rohitnshinde1998@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-shinde-aa24a7392/
