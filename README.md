@@ -7,25 +7,42 @@ This project analyzes user behavior on an e-commerce website and builds a machin
 
 ## 📊 Dataset
 Source: UCI Machine Learning Repository
+
 Contains user session data such as:
 Page visits
+
 Time spent
+
 Bounce & exit rates
+
 Traffic source & visitor type
+
 Target Variable: Revenue (0 = Non-Buyer, 1 = Buyer)
 
 ## 🛠️ Tools and Technologies
 Python 🐍
-Pandas, NumPy
-Matplotlib, Seaborn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
 Scikit-learn
+
 XGBoost
 
 ## ⚙️ Methods
 Data Cleaning & Preprocessing
+
 Feature Engineering (Label Encoding)
+
 Exploratory Data Analysis (EDA)
+
 Feature Scaling
+
 Model Building:
 Logistic Regression
 Random Forest
