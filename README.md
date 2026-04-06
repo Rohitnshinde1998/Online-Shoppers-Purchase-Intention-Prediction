@@ -9,6 +9,7 @@ This project analyzes user behavior on an e-commerce website and builds a machin
 Source: UCI Machine Learning Repository
 
 Contains user session data such as:
+
 Page visits
 
 Time spent
@@ -43,41 +44,63 @@ Exploratory Data Analysis (EDA)
 
 Feature Scaling
 
+
 Model Building:
+
 Logistic Regression
+
 Random Forest
+
 XGBoost
+
 Model Evaluation:
+
 Accuracy
-Precision, Recall
+
+Precision
+
+Recall
+
 ROC-AUC Score
+
 Confusion Matrix
 
 ## 🔍 Key Insights
 PageValues is the strongest predictor of purchase
+
 Higher engagement → higher purchase probability
+
 High bounce & exit rates → low conversion
+
 Returning users are more likely to buy
+
 Most users are non-buyers (class imbalance)
 
 ## 📈 Dashboard / Model Output
 Best Model: Random Forest
+
 Accuracy: ~91%
+
 ROC-AUC Score: ~0.92
+
 
 Confusion Matrix:
 
 2708 Non-buyers correctly predicted
+
 312 Buyers correctly predicted
+
 203 Buyers missed
 
 ## ✅ Result & Conclusion
 
 This project demonstrates how machine learning can effectively predict customer purchase behavior.
+
 By identifying high-intent users, businesses can improve targeting, reduce drop-offs, and increase revenue.
 
 ## 👨‍💻 Author & Contact
 
 Rohit Namdev Shinde
 📧 Email: rohitnshinde1998@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-shinde-aa24a7392/
